@@ -1,2 +1,0 @@
-# Assistant
-For AIY Project
